@@ -1,8 +1,11 @@
 hello
 this
-is 
+is
 my 
-mine mine mine
+new-branch
+and
+my 
+mine main
 second 
 last
 new 
